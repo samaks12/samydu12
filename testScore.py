@@ -4,3 +4,9 @@ def ScoreCal(name,age):
 
     if name == 'Marie' and age == 33:
         return '50%'
+
+    if name == 'Marc' and age == 60:
+        return '43%'
+
+    if name == 'Ely' and age == 28:
+        return '75%'
