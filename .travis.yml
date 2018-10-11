@@ -3,12 +3,12 @@ language: python
 
 python:
 
-  -3.6
-  -2.7
+  - 3.6
+  - 2.7
   
   
 install :
 
   
 script:
-  -python testScore.py
+  - python testScore.py
