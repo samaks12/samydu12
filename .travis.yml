@@ -11,4 +11,4 @@ install :
 
   
 script:
-  -python app-test.py
+  -python testScore.py
